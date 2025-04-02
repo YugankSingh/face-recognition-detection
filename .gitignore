@@ -1,0 +1,7 @@
+*.env
+*/env
+*/node_modules
+logging-server/old_logs
+logging-server/logs.json
+*.db
+*.DS_Store

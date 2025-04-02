@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Person217670081500199",
+    "camera_id": "http://127.0.0.1:5000/video_feed",
+    "timestamp_start": "2025-03-25T14:11:13.697643",
+    "timestamp_end": "2025-03-25T14:11:19.479564"
+  },
+  {
+    "name": "Person726500121500376",
+    "camera_id": "http://127.0.0.1:5000/video_feed",
+    "timestamp_start": "2025-03-25T14:11:16.152129",
+    "timestamp_end": "2025-03-25T14:11:16.152129"
+  },
+  {
+    "name": "Person23869307685070",
+    "camera_id": "http://127.0.0.1:5000/video_feed",
+    "timestamp_start": "2025-03-25T14:11:18.864156",
+    "timestamp_end": "2025-03-25T14:11:18.864156"
+  }
+]
